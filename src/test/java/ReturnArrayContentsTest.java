@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class ReturnArrayContentsTest {
-    ReturnArrayContents rac = new ReturnArrayContents();
+    Lab rac = new Lab();
 
     /**
      * given input {1,2,3,4,5}, arrayToString should return 1 2 3 4 5.

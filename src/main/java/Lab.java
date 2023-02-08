@@ -1,4 +1,6 @@
-public class ReturnArrayContents {
+import java.util.Arrays;
+
+public class Lab {
     /**
      * Return a string with an array's contents, formatted with spaces.
      * For example, given the array {3,4,5,6} the string should look like this:
